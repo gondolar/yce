@@ -4,3 +4,9 @@
 [submodule "thermuino"]
 	path = thermuino
 	url = https://github.com/gondolar/thermuino
+[submodule "ESPAsyncWebServer"]
+	path = ESPAsyncWebServer
+	url = https://github.com/gondolar/ESPAsyncWebServer
+[submodule "ESPAsyncTCP"]
+	path = ESPAsyncTCP
+	url = https://github.com/gondolar/ESPAsyncTCP
