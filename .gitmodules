@@ -10,3 +10,9 @@
 [submodule "ESPAsyncTCP"]
 	path = ESPAsyncTCP
 	url = https://github.com/gondolar/ESPAsyncTCP
+[submodule "Arduino-Temperature-Control-Library"]
+	path = Arduino-Temperature-Control-Library
+	url = https://github.com/gondolar/Arduino-Temperature-Control-Library
+[submodule "OneWire"]
+	path = OneWire
+	url = https://github.com/gondolar/OneWire
