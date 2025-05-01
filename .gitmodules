@@ -1,0 +1,6 @@
+[submodule "ulc"]
+	path = ulc
+	url = https://github.com/asm128/ulc
+[submodule "thermuino"]
+	path = thermuino
+	url = https://github.com/gondolar/thermuino
