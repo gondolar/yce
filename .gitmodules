@@ -16,3 +16,6 @@
 [submodule "OneWire"]
 	path = OneWire
 	url = https://github.com/gondolar/OneWire
+[submodule "llc"]
+	path = llc
+	url = https://github.com/asm128/llc
