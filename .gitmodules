@@ -22,6 +22,6 @@
 [submodule "phyton"]
 	path = phyton
 	url = https://github.com/asm128/phyton.git
-[submodule "pystener"]
-	path = pystener
-	url = https://github.com/gondolar/pystener
+[submodule "pyholder"]
+	path = pyholder
+	url = https://github.com/gondolar/pyholder
