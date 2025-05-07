@@ -1,0 +1,4 @@
+mlc_ets_store/
+obj/
+x64.Debug/
+x64.Release/

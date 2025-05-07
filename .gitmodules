@@ -25,3 +25,15 @@
 [submodule "pyholder"]
 	path = pyholder
 	url = https://github.com/gondolar/pyholder
+[submodule "yce_common"]
+	path = yce_common
+	url = https://github.com/gondolar/yce_common
+[submodule "Adafruit_SSD1306"]
+	path = Adafruit_SSD1306
+	url = https://github.com/asm128/Adafruit_SSD1306
+[submodule "Adafruit-GFX-Library"]
+	path = Adafruit-GFX-Library
+	url = https://github.com/asm128/Adafruit-GFX-Library
+[submodule "nlc"]
+	path = nlc
+	url = https://github.com/gondolar/nlc
