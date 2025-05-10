@@ -37,3 +37,6 @@
 [submodule "nlc"]
 	path = nlc
 	url = https://github.com/gondolar/nlc
+[submodule "Adafruit_BusIO"]
+	path = Adafruit_BusIO
+	url = https://github.com/asm128/Adafruit_BusIO
