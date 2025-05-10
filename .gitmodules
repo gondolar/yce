@@ -40,3 +40,6 @@
 [submodule "Adafruit_BusIO"]
 	path = Adafruit_BusIO
 	url = https://github.com/asm128/Adafruit_BusIO
+[submodule "AsyncTCP"]
+	path = AsyncTCP
+	url = https://github.com/asm128/AsyncTCP.git
