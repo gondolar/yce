@@ -43,3 +43,15 @@
 [submodule "AsyncTCP"]
 	path = AsyncTCP
 	url = https://github.com/asm128/AsyncTCP.git
+[submodule "Adafruit_ILI9341"]
+	path = Adafruit_ILI9341
+	url = https://github.com/asm128/Adafruit_ILI9341
+[submodule "Adafruit_STMPE610"]
+	path = Adafruit_STMPE610
+	url = https://github.com/asm128/Adafruit_STMPE610
+[submodule "Adafruit_TSC2007"]
+	path = Adafruit_TSC2007
+	url = https://github.com/asm128/Adafruit_TSC2007
+[submodule "Adafruit_TouchScreen"]
+	path = Adafruit_TouchScreen
+	url = https://github.com/asm128/Adafruit_TouchScreen
