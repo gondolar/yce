@@ -55,3 +55,6 @@
 [submodule "Adafruit_TouchScreen"]
 	path = Adafruit_TouchScreen
 	url = https://github.com/asm128/Adafruit_TouchScreen
+[submodule "Adafruit_SH110X"]
+	path = Adafruit_SH110X
+	url = https://github.com/asm128/Adafruit_SH110X
