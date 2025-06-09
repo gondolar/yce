@@ -67,3 +67,9 @@
 [submodule "Adafruit_Seesaw"]
 	path = Adafruit_Seesaw
 	url = https://github.com/asm128/Adafruit_Seesaw
+[submodule "espsoftwareserial"]
+	path = espsoftwareserial
+	url = https://github.com/asm128/espsoftwareserial
+[submodule "Arduino-IRremote"]
+	path = Arduino-IRremote
+	url = https://github.com/asm128/Arduino-IRremote
