@@ -73,3 +73,12 @@
 [submodule "Arduino-IRremote"]
 	path = Arduino-IRremote
 	url = https://github.com/asm128/Arduino-IRremote
+[submodule "alc"]
+	path = alc
+	url = https://github.com/asm128/alc
+[submodule "XPT2046_Touchscreen"]
+	path = XPT2046_Touchscreen
+	url = https://github.com/asm128/XPT2046_Touchscreen
+[submodule "ustd"]
+	path = ustd
+	url = https://github.com/asm128/ustd/
