@@ -82,3 +82,6 @@
 [submodule "ustd"]
 	path = ustd
 	url = https://github.com/asm128/ustd/
+[submodule "MCUFRIEND_kbv"]
+	path = MCUFRIEND_kbv
+	url = https://github.com/asm128/MCUFRIEND_kbv
