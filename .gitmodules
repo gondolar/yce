@@ -85,3 +85,21 @@
 [submodule "MCUFRIEND_kbv"]
 	path = MCUFRIEND_kbv
 	url = https://github.com/asm128/MCUFRIEND_kbv
+[submodule "ssd1306"]
+	path = ssd1306
+	url = https://github.com/asm128/ssd1306
+[submodule "neutralizer"]
+	path = neutralizer
+	url = https://github.com/asm128/neutralizer
+[submodule "unblocker"]
+	path = unblocker
+	url = https://github.com/asm128/unblocker
+[submodule "blitter"]
+	path = blitter
+	url = https://github.com/asm128/blitter
+[submodule "blade"]
+	path = blade
+	url = https://github.com/asm128/blade
+[submodule "yce_web_stack"]
+	path = yce_web_stack
+	url = https://github.com/gondolar/yce_web_stack
